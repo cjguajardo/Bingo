@@ -1,10 +1,12 @@
 # Bingo Game
 
-This repository contains a Bingo game implementation.
+This repository contains a Bingo card generator implementation made with ReactNative.
+
+Work in progress...
 
 ## Description
 
-This project provides a digital version of the classic Bingo game. It allows users to play Bingo on their devices without the need for physical cards and markers. The game features a simple and intuitive user interface, random card generation, number calling functionality, and a customizable winning pattern.
+This project provides a Bingo card generator.
 
 ## Features
 
